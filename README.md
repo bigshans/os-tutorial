@@ -26,7 +26,7 @@ and the [OSDev wiki](http://wiki.osdev.org/), I'll try to make short step-by-ste
 code samples for anybody to follow. Honestly, this tutorial is basically the first document but
 split into smaller pieces and without the theory.
 
-受到[这片文档](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)和 [OSDev wiki](http://wiki.osdev.org/) 的启发，我将会制作分步骤且简短的 README 和代码样例以供任何人跟随（学习）。
+受到[这篇文档](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)和 [OSDev wiki](http://wiki.osdev.org/) 的启发，我将会制作分步骤且简短的 README 和代码样例以供任何人跟随（学习）。
 老实说，本教程仅仅是分割成小块的，且不涉及理论的基础初级文档。
 
 Updated: more sources: [the little book about OS development](https://littleosbook.github.io),
