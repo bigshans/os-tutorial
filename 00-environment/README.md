@@ -13,7 +13,7 @@ available for you.
 
 On a mac, [install Homebrew](http://brew.sh) and then `brew install qemu nasm`
 
-在 Mac ，[安装 Homebrew](http://brew.sh) 然后运行 `brew install qemu nasm` 。
+在 Mac 上，[安装 Homebrew](http://brew.sh) 然后运行 `brew install qemu nasm` 。
 
 Don't use the Xcode developer tools `nasm` if you have them installed, they won't work for the most cases. Always use `/usr/local/bin/nasm`
 
